@@ -27,7 +27,6 @@ To try to add a touch of creativity instead of creating the typical black and wh
 
 ### VERY IMPORTANT:
 You may need to install the qrcode library before executing the code. To do so, enter the following command in the terminal:
-
-`pip install qrcode`
+```{.copyable} pip install qrcode```
 
 After that you should be able to run the program without any problems.
